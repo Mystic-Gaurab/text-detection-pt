@@ -1,4 +1,4 @@
-streamlit==1.17.0
+streamlit==1.18.0
 altair==4.1.0
 anyio==4.9.0
 argon2-cffi==23.1.0
